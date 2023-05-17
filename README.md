@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 I Created resources in Assure, installed prerequisites and ticketing systems. I set up SLAs in users and permissions. I USed the ticketing system as a help desk professional and created tickets and made some notes on the tickets and closed tickets.
-</p>
+https://i.imgur.com/kuCOXjv.png
 <br />
 
 <p>
