@@ -42,8 +42,8 @@ I Created a virtual Machine in Asure, then browsed to the website (whatismypubli
 <img src="https://i.imgur.com/oJlJTy1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+I used Assure to set up the environment and created a resource group, virtual network, subnet,
+</p>and two virtual machines. One of the virtual machine was a Domain Controller and the 2nd operated as Client. Then I installed active directory on one of the domain controller virtual machines and then i joined the Client 1 virtual machine to the domain controller virtual machine. I created a bunch of user accounts on the Domain Controller virtual machine, then I created a few folders and shared them out on a network and practiced file and network sharing and performed some DNS activities
 <br />
 
 <p>
